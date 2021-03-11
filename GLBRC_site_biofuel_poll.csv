@@ -1,0 +1,241 @@
+sampling_round,block,treatment,plot,pollinator_group
+1,1,switchgrass,AE,Native bee
+1,1,native grass,AG,Native bee
+1,1,successional,AI,Native bee
+1,1,prairie,AJ,Native bee
+1,2,switchgrass,BE,Native bee
+1,2,native grass,BG,Native bee
+1,2,successional,BI,Native bee
+1,2,prairie,BJ,Native bee
+1,3,switchgrass,CE,Native bee
+1,3,native grass,CG,Native bee
+1,3,successional,CI,Native bee
+1,3,prairie,CJ,Native bee
+1,4,switchgrass,DE,Native bee
+1,4,native grass,DG,Native bee
+1,4,successional,DI,Native bee
+1,4,prairie,DJ,Native bee
+1,5,switchgrass,EE,Native bee
+1,5,native grass,EG,Native bee
+1,5,successional,EI,Native bee
+1,5,prairie,EJ,Native bee
+2,1,switchgrass,AE,Native bee
+2,1,native grass,AG,Native bee
+2,1,successional,AI,Native bee
+2,1,prairie,AJ,Native bee
+2,2,switchgrass,BE,Native bee
+2,2,native grass,BG,Native bee
+2,2,successional,BI,Native bee
+2,2,prairie,BJ,Native bee
+2,3,switchgrass,CE,Native bee
+2,3,native grass,CG,Native bee
+2,3,successional,CI,Native bee
+2,3,prairie,CJ,Native bee
+2,4,switchgrass,DE,Native bee
+2,4,native grass,DG,Native bee
+2,4,successional,DI,Native bee
+2,4,prairie,DJ,Native bee
+2,5,switchgrass,EE,Native bee
+2,5,native grass,EG,Native bee
+2,5,successional,EI,Native bee
+2,5,prairie,EJ,Native bee
+3,1,switchgrass,AE,Native bee
+3,1,native grass,AG,Native bee
+3,1,successional,AI,Native bee
+3,1,prairie,AJ,Native bee
+3,2,switchgrass,BE,Native bee
+3,2,native grass,BG,Native bee
+3,2,successional,BI,Native bee
+3,2,prairie,BJ,Native bee
+3,3,switchgrass,CE,Native bee
+3,3,native grass,CG,Native bee
+3,3,successional,CI,Native bee
+3,3,prairie,CJ,Native bee
+3,4,switchgrass,DE,Native bee
+3,4,native grass,DG,Native bee
+3,4,successional,DI,Native bee
+3,4,prairie,DJ,Native bee
+3,5,switchgrass,EE,Native bee
+3,5,native grass,EG,Native bee
+3,5,successional,EI,Native bee
+3,5,prairie,EJ,Native bee
+4,1,switchgrass,AE,Native bee
+4,1,native grass,AG,Native bee
+4,1,successional,AI,Native bee
+4,1,prairie,AJ,Native bee
+4,2,switchgrass,BE,Native bee
+4,2,native grass,BG,Native bee
+4,2,successional,BI,Native bee
+4,2,prairie,BJ,Native bee
+4,3,switchgrass,CE,Native bee
+4,3,native grass,CG,Native bee
+4,3,successional,CI,Native bee
+4,3,prairie,CJ,Native bee
+4,4,switchgrass,DE,Native bee
+4,4,native grass,DG,Native bee
+4,4,successional,DI,Native bee
+4,4,prairie,DJ,Native bee
+4,5,switchgrass,EE,Native bee
+4,5,native grass,EG,Native bee
+4,5,successional,EI,Native bee
+4,5,prairie,EJ,Native bee
+1,1,switchgrass,AE,Honeybee
+1,1,native grass,AG,Honeybee
+1,1,successional,AI,Honeybee
+1,1,prairie,AJ,Honeybee
+1,2,switchgrass,BE,Honeybee
+1,2,native grass,BG,Honeybee
+1,2,successional,BI,Honeybee
+1,2,prairie,BJ,Honeybee
+1,3,switchgrass,CE,Honeybee
+1,3,native grass,CG,Honeybee
+1,3,successional,CI,Honeybee
+1,3,prairie,CJ,Honeybee
+1,4,switchgrass,DE,Honeybee
+1,4,native grass,DG,Honeybee
+1,4,successional,DI,Honeybee
+1,4,prairie,DJ,Honeybee
+1,5,switchgrass,EE,Honeybee
+1,5,native grass,EG,Honeybee
+1,5,successional,EI,Honeybee
+1,5,prairie,EJ,Honeybee
+2,1,switchgrass,AE,Honeybee
+2,1,native grass,AG,Honeybee
+2,1,successional,AI,Honeybee
+2,1,prairie,AJ,Honeybee
+2,2,switchgrass,BE,Honeybee
+2,2,native grass,BG,Honeybee
+2,2,successional,BI,Honeybee
+2,2,prairie,BJ,Honeybee
+2,3,switchgrass,CE,Honeybee
+2,3,native grass,CG,Honeybee
+2,3,successional,CI,Honeybee
+2,3,prairie,CJ,Honeybee
+2,4,switchgrass,DE,Honeybee
+2,4,native grass,DG,Honeybee
+2,4,successional,DI,Honeybee
+2,4,prairie,DJ,Honeybee
+2,5,switchgrass,EE,Honeybee
+2,5,native grass,EG,Honeybee
+2,5,successional,EI,Honeybee
+2,5,prairie,EJ,Honeybee
+3,1,switchgrass,AE,Honeybee
+3,1,native grass,AG,Honeybee
+3,1,successional,AI,Honeybee
+3,1,prairie,AJ,Honeybee
+3,2,switchgrass,BE,Honeybee
+3,2,native grass,BG,Honeybee
+3,2,successional,BI,Honeybee
+3,2,prairie,BJ,Honeybee
+3,3,switchgrass,CE,Honeybee
+3,3,native grass,CG,Honeybee
+3,3,successional,CI,Honeybee
+3,3,prairie,CJ,Honeybee
+3,4,switchgrass,DE,Honeybee
+3,4,native grass,DG,Honeybee
+3,4,successional,DI,Honeybee
+3,4,prairie,DJ,Honeybee
+3,5,switchgrass,EE,Honeybee
+3,5,native grass,EG,Honeybee
+3,5,successional,EI,Honeybee
+3,5,prairie,EJ,Honeybee
+4,1,switchgrass,AE,Honeybee
+4,1,native grass,AG,Honeybee
+4,1,successional,AI,Honeybee
+4,1,prairie,AJ,Honeybee
+4,2,switchgrass,BE,Honeybee
+4,2,native grass,BG,Honeybee
+4,2,successional,BI,Honeybee
+4,2,prairie,BJ,Honeybee
+4,3,switchgrass,CE,Honeybee
+4,3,native grass,CG,Honeybee
+4,3,successional,CI,Honeybee
+4,3,prairie,CJ,Honeybee
+4,4,switchgrass,DE,Honeybee
+4,4,native grass,DG,Honeybee
+4,4,successional,DI,Honeybee
+4,4,prairie,DJ,Honeybee
+4,5,switchgrass,EE,Honeybee
+4,5,native grass,EG,Honeybee
+4,5,successional,EI,Honeybee
+4,5,prairie,EJ,Honeybee
+1,1,switchgrass,AE,Other pollinator
+1,1,native grass,AG,Other pollinator
+1,1,successional,AI,Other pollinator
+1,1,prairie,AJ,Other pollinator
+1,2,switchgrass,BE,Other pollinator
+1,2,native grass,BG,Other pollinator
+1,2,successional,BI,Other pollinator
+1,2,prairie,BJ,Other pollinator
+1,3,switchgrass,CE,Other pollinator
+1,3,native grass,CG,Other pollinator
+1,3,successional,CI,Other pollinator
+1,3,prairie,CJ,Other pollinator
+1,4,switchgrass,DE,Other pollinator
+1,4,native grass,DG,Other pollinator
+1,4,successional,DI,Other pollinator
+1,4,prairie,DJ,Other pollinator
+1,5,switchgrass,EE,Other pollinator
+1,5,native grass,EG,Other pollinator
+1,5,successional,EI,Other pollinator
+1,5,prairie,EJ,Other pollinator
+2,1,switchgrass,AE,Other pollinator
+2,1,native grass,AG,Other pollinator
+2,1,successional,AI,Other pollinator
+2,1,prairie,AJ,Other pollinator
+2,2,switchgrass,BE,Other pollinator
+2,2,native grass,BG,Other pollinator
+2,2,successional,BI,Other pollinator
+2,2,prairie,BJ,Other pollinator
+2,3,switchgrass,CE,Other pollinator
+2,3,native grass,CG,Other pollinator
+2,3,successional,CI,Other pollinator
+2,3,prairie,CJ,Other pollinator
+2,4,switchgrass,DE,Other pollinator
+2,4,native grass,DG,Other pollinator
+2,4,successional,DI,Other pollinator
+2,4,prairie,DJ,Other pollinator
+2,5,switchgrass,EE,Other pollinator
+2,5,native grass,EG,Other pollinator
+2,5,successional,EI,Other pollinator
+2,5,prairie,EJ,Other pollinator
+3,1,switchgrass,AE,Other pollinator
+3,1,native grass,AG,Other pollinator
+3,1,successional,AI,Other pollinator
+3,1,prairie,AJ,Other pollinator
+3,2,switchgrass,BE,Other pollinator
+3,2,native grass,BG,Other pollinator
+3,2,successional,BI,Other pollinator
+3,2,prairie,BJ,Other pollinator
+3,3,switchgrass,CE,Other pollinator
+3,3,native grass,CG,Other pollinator
+3,3,successional,CI,Other pollinator
+3,3,prairie,CJ,Other pollinator
+3,4,switchgrass,DE,Other pollinator
+3,4,native grass,DG,Other pollinator
+3,4,successional,DI,Other pollinator
+3,4,prairie,DJ,Other pollinator
+3,5,switchgrass,EE,Other pollinator
+3,5,native grass,EG,Other pollinator
+3,5,successional,EI,Other pollinator
+3,5,prairie,EJ,Other pollinator
+4,1,switchgrass,AE,Other pollinator
+4,1,native grass,AG,Other pollinator
+4,1,successional,AI,Other pollinator
+4,1,prairie,AJ,Other pollinator
+4,2,switchgrass,BE,Other pollinator
+4,2,native grass,BG,Other pollinator
+4,2,successional,BI,Other pollinator
+4,2,prairie,BJ,Other pollinator
+4,3,switchgrass,CE,Other pollinator
+4,3,native grass,CG,Other pollinator
+4,3,successional,CI,Other pollinator
+4,3,prairie,CJ,Other pollinator
+4,4,switchgrass,DE,Other pollinator
+4,4,native grass,DG,Other pollinator
+4,4,successional,DI,Other pollinator
+4,4,prairie,DJ,Other pollinator
+4,5,switchgrass,EE,Other pollinator
+4,5,native grass,EG,Other pollinator
+4,5,successional,EI,Other pollinator
+4,5,prairie,EJ,Other pollinator
