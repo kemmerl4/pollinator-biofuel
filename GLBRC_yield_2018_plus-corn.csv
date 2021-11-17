@@ -1,0 +1,104 @@
+﻿year,harvest_date,site,main_or_microplot,treatment,crop,replicate,plot,fraction,field_section,n_treatment,area_harvested_ft2,dry_matter_yield_Mg_ha,moisture_at_harvest,comments,dry_matter_yield_ton_acre,price_per_Mg,seeding_cost,profit
+2018,10/24/18,KBS,nitrogen microplot,prairie,G10,R1,AJ,whole,east,nitrogen applied,984.225,7.329918286,35.8134,,3.276473474,293.1967314,27.923334,265.2733974
+2018,10/24/18,KBS,nitrogen microplot control,prairie,G10,R1,AJ,whole,west,no nitrogen applied,984.225,7.255500771,33.2477,,3.243208845,290.2200308,27.923334,262.2966968
+2018,10/25/18,KBS,main,prairie,G10,R1,AJ,whole,,no nitrogen applied,8464.335,6.069161578,34.8231,,2.712915225,242.7664631,27.923334,214.8431291
+2018,10/24/18,KBS,nitrogen microplot control,prairie,G10,R2,BJ,whole,east,no nitrogen applied,984.225,8.431201727,32.6875,,3.768747172,337.2480691,27.923334,309.3247351
+2018,10/24/18,KBS,nitrogen microplot,prairie,G10,R2,BJ,whole,west,nitrogen applied,984.225,7.970746546,32.4883,,3.562923706,318.8298618,27.923334,290.9065278
+2018,10/25/18,KBS,main,prairie,G10,R2,BJ,whole,main,no nitrogen applied,8398.72,8.079082903,32.9958,,3.611350058,323.1633161,27.923334,295.2399821
+2018,10/24/18,KBS,nitrogen microplot,prairie,G10,R3,CJ,whole,west,nitrogen applied,984.225,6.846046966,40.8214,,3.060182994,273.8418786,27.923334,245.9185446
+2018,10/25/18,KBS,main,prairie,G10,R3,CJ,whole,main,no nitrogen applied,8136.26,6.039120631,30.0833,,2.699486922,241.5648252,27.923334,213.6414912
+2018,10/24/18,KBS,nitrogen microplot control,prairie,G10,R3,CJ,whole,east,no nitrogen applied,984.225,4.833472345,32.4957,,2.160562138,193.3388938,27.923334,165.4155598
+2018,10/25/18,KBS,main,prairie,G10,R4,DJ,whole,main,no nitrogen applied,8267.49,4.504580462,30.3119,,2.013547466,180.1832185,27.923334,152.2598845
+2018,10/24/18,KBS,nitrogen microplot control,prairie,G10,R4,DJ,whole,east,no nitrogen applied,984.225,6.023196759,33.222,,2.692368951,240.9278704,27.923334,213.0045364
+2018,10/24/18,KBS,nitrogen microplot,prairie,G10,R4,DJ,whole,west,nitrogen applied,984.225,6.106763921,38.1444,,2.729723473,244.2705568,27.923334,216.3472228
+2018,10/25/18,KBS,main,prairie,G10,R5,EJ,whole,main,no nitrogen applied,8136.26,4.221183655,37.4465,,1.886869094,168.8473462,27.923334,140.9240122
+2018,10/24/18,KBS,nitrogen microplot,prairie,G10,R5,EJ,whole,west,nitrogen applied,984.225,5.488497853,40.6827,,2.45335854,219.5399141,27.923334,191.6165801
+2018,10/24/18,KBS,nitrogen microplot control,prairie,G10,R5,EJ,whole,east,no nitrogen applied,984.225,4.716876647,38.6687,,2.108443861,188.6750659,27.923334,160.7517319
+2018,10/24/18,KBS,nitrogen microplot,switchgrass,G5,R1,AE,whole,east,nitrogen applied,984.225,7.010007197,36.6905,,3.133473217,280.4002879,9.79016371,270.6101242
+2018,10/24/18,KBS,nitrogen microplot control,switchgrass,G5,R1,AE,whole,west,no nitrogen applied,984.225,4.544212991,40.4143,,2.031263207,181.7685196,9.79016371,171.9783559
+2018,10/25/18,KBS,main,switchgrass,G5,R1,AE,whole,main,nitrogen applied,8333.105,6.110810212,33.3291,,2.731532165,244.4324085,9.79016371,234.6422448
+2018,10/25/18,KBS,main,switchgrass,G5,R2,BE,whole,main,nitrogen applied,8333.105,5.259462762,39.322,,2.350979855,210.3785105,9.79016371,200.5883468
+2018,10/24/18,KBS,nitrogen microplot control,switchgrass,G5,R2,BE,whole,west,no nitrogen applied,984.225,4.422325162,38.7468,,1.976779348,176.8930065,9.79016371,167.1028428
+2018,10/24/18,KBS,nitrogen microplot,switchgrass,G5,R2,BE,whole,east,nitrogen applied,984.225,5.811317585,38.0569,,2.59765896,232.4527034,9.79016371,222.6625397
+2018,10/25/18,KBS,main,switchgrass,G5,R3,CE,whole,main,nitrogen applied,8267.49,5.920849734,40.4745,,2.646619831,236.8339894,9.79016371,227.0438257
+2018,10/24/18,KBS,nitrogen microplot control,switchgrass,G5,R3,CE,whole,west,no nitrogen applied,984.225,5.935068315,41.0094,,2.652975537,237.4027326,9.79016371,227.6125689
+2018,10/24/18,KBS,nitrogen microplot,switchgrass,G5,R3,CE,whole,east,nitrogen applied,984.225,7.434937154,38.0414,,3.323416908,297.3974862,9.79016371,287.6073225
+2018,10/24/18,KBS,nitrogen microplot control,switchgrass,G5,R4,DE,whole,west,no nitrogen applied,984.225,3.77404122,38.1716,,1.686996425,150.9616488,9.79016371,141.1714851
+2018,10/25/18,KBS,main,switchgrass,G5,R4,DE,whole,main,nitrogen applied,8267.49,4.238375205,38.8945,,1.894553717,169.5350082,9.79016371,159.7448445
+2018,10/24/18,KBS,nitrogen microplot,switchgrass,G5,R4,DE,whole,east,nitrogen applied,984.225,6.312741194,38.2297,,2.821795314,252.5096478,9.79016371,242.7194841
+2018,10/24/18,KBS,nitrogen microplot,switchgrass,G5,R5,EE,whole,east,nitrogen applied,984.225,6.540067631,35.8497,,2.923410231,261.6027052,9.79016371,251.8125415
+2018,10/25/18,KBS,main,switchgrass,G5,R5,EE,whole,main,nitrogen applied,8267.49,5.753857025,35.6624,,2.57197409,230.154281,9.79016371,220.3641173
+2018,10/24/18,KBS,nitrogen microplot control,switchgrass,G5,R5,EE,whole,west,no nitrogen applied,984.225,4.822261606,38.8748,,2.155550938,192.8904642,9.79016371,183.1003005
+2018,10/24/18,KBS,nitrogen microplot control,native grass,G7,R1,AG,whole,west,no nitrogen applied,984.225,7.778569751,32.2084,,3.477020679,311.14279,7.72140888,303.4213812
+2018,10/25/18,KBS,main,native grass,G7,R1,AG,whole,main,nitrogen applied,8333.105,7.552740411,35.1958,,3.376074964,302.1096164,7.72140888,294.3882076
+2018,10/24/18,KBS,nitrogen microplot,native grass,G7,R1,AG,whole,east,nitrogen applied,984.225,9.308772085,33.4294,,4.161021122,372.3508834,7.72140888,364.6294745
+2018,10/25/18,KBS,main,native grass,G7,R2,BG,whole,main,nitrogen applied,8267.49,8.263964166,35.338,,3.693991982,330.5585666,7.72140888,322.8371578
+2018,10/24/18,KBS,nitrogen microplot control,native grass,G7,R2,BG,whole,west,no nitrogen applied,984.225,9.680883248,30.7928,,4.327354812,387.2353299,7.72140888,379.513921
+2018,10/24/18,KBS,nitrogen microplot,native grass,G7,R2,BG,whole,east,nitrogen applied,984.225,9.749716331,34.8288,,4.3581232,389.9886532,7.72140888,382.2672444
+2018,10/24/18,KBS,nitrogen microplot control,native grass,G7,R3,CG,whole,west,no nitrogen applied,984.225,9.014893825,34.3199,,4.02965754,360.595753,7.72140888,352.8743441
+2018,10/25/18,KBS,main,native grass,G7,R3,CG,whole,main,nitrogen applied,8333.105,7.631822055,34.3523,,3.411424458,305.2728822,7.72140888,297.5514733
+2018,10/24/18,KBS,nitrogen microplot,native grass,G7,R3,CG,whole,east,nitrogen applied,984.225,8.839985524,33.5785,,3.951473529,353.599421,7.72140888,345.8780121
+2018,10/24/18,KBS,nitrogen microplot,native grass,G7,R4,DG,whole,east,nitrogen applied,984.225,7.686777064,35.4627,,3.435989348,307.4710826,7.72140888,299.7496737
+2018,10/25/18,KBS,main,native grass,G7,R4,DG,whole,main,nitrogen applied,8267.49,5.762214823,35.3556,,2.575710026,230.4885929,7.72140888,222.767184
+2018,10/24/18,KBS,nitrogen microplot control,native grass,G7,R4,DG,whole,west,no nitrogen applied,984.225,4.823896862,31.3457,,2.156281897,192.9558745,7.72140888,185.2344656
+2018,10/24/18,KBS,nitrogen microplot,native grass,G7,R5,EG,whole,east,nitrogen applied,984.225,4.912754939,38.8803,,2.196001458,196.5101976,7.72140888,188.7887887
+2018,10/24/18,KBS,nitrogen microplot control,native grass,G7,R5,EG,whole,west,no nitrogen applied,984.225,5.473998334,34.4456,,2.446877255,218.9599334,7.72140888,211.2385245
+2018,10/25/18,KBS,main,native grass,G7,R5,EG,whole,main,nitrogen applied,8267.49,6.141249241,36.1754,,2.745138411,245.6499696,7.72140888,237.9285608
+2018,10/24/18,KBS,nitrogen microplot control,successional,G9,R1,AI,whole,west,no nitrogen applied,984.225,3.058557757,43.2029,,1.367175317,122.3423103,0,122.3423103
+2018,10/25/18,KBS,main,successional,G9,R1,AI,whole,main,nitrogen applied,8333.105,2.479950465,49.5901,,1.108537858,99.1980186,0,99.1980186
+2018,10/24/18,KBS,nitrogen microplot,successional,G9,R1,AI,whole,east,nitrogen applied,984.225,4.047130602,43.3601,,1.809067379,161.8852241,0,161.8852241
+2018,10/25/18,KBS,main,successional,G9,R2,BI,whole,main,nitrogen applied,8333.105,1.893808945,43.7633,,0.846532598,75.7523578,0,75.7523578
+2018,10/24/18,KBS,nitrogen microplot,successional,G9,R2,BI,whole,east,nitrogen applied,984.225,3.335235554,40.1056,,1.490850293,133.4094222,0,133.4094222
+2018,10/24/18,KBS,nitrogen microplot control,successional,G9,R2,BI,whole,west,no nitrogen applied,984.225,4.740907996,38.7511,,2.119185874,189.6363198,0,189.6363198
+2018,10/25/18,KBS,main,successional,G9,R3,CI,whole,main,nitrogen applied,8136.26,2.177526625,44.1504,,0.973354401,87.101065,0,87.101065
+2018,10/24/18,KBS,nitrogen microplot,successional,G9,R3,CI,whole,east,nitrogen applied,984.225,3.231137768,50.3338,,1.444318582,129.2455107,0,129.2455107
+2018,10/24/18,KBS,nitrogen microplot control,successional,G9,R3,CI,whole,west,no nitrogen applied,984.225,3.114161934,46.5051,,1.392030385,124.5664774,0,124.5664774
+2018,10/24/18,KBS,nitrogen microplot,successional,G9,R4,DI,whole,east,nitrogen applied,984.225,2.911793075,38.0048,,1.301571505,116.471723,0,116.471723
+2018,10/25/18,KBS,main,successional,G9,R4,DI,whole,main,nitrogen applied,8267.49,1.983226171,38.9159,,0.886502098,79.32904684,0,79.32904684
+2018,10/24/18,KBS,nitrogen microplot control,successional,G9,R4,DI,whole,west,no nitrogen applied,984.225,3.254751739,34.3617,,1.454874027,130.1900696,0,130.1900696
+2018,10/25/18,KBS,main,successional,G9,R5,EI,whole,main,nitrogen applied,8136.26,2.706452048,39.0269,,1.209784066,108.2580819,0,108.2580819
+2018,10/24/18,KBS,nitrogen microplot control,successional,G9,R5,EI,whole,west,no nitrogen applied,984.225,2.190285745,41.2147,,0.979057728,87.6114298,0,87.6114298
+2018,10/24/18,KBS,nitrogen microplot,successional,G9,R5,EI,whole,east,nitrogen applied,984.225,3.823611849,39.1874,,1.709154496,152.944474,0,152.944474
+2018,10/4/18,KBS,stover microplot control,Continuous Corn,G1,R1,,,east,,656.15,8.78,22.3,,,grain,no cover crop,
+2018,10/5/18,KBS,main,Continuous Corn,G1,R1,,,main,,7873.8,9.63,20.4,,,grain,no,
+2018,10/4/18,KBS,stover microplot,Continuous Corn,G1,R1,,,west,,656.15,9.1,23.8,,,grain,no cover crop,
+2018,10/4/18,KBS,stover microplot,Continuous Corn,G1,R2,,,west,,656.15,7.87,22.9,,,grain,no cover crop,
+2018,10/5/18,KBS,main,Continuous Corn,G1,R2,,,main,,7873.8,8.74,19.5,,,grain,no,
+2018,10/4/18,KBS,stover microplot control,Continuous Corn,G1,R2,,,east,,656.15,10.05,21.1,,,grain,no cover crop,
+2018,10/4/18,KBS,stover microplot control,Continuous Corn,G1,R3,,,east,,656.15,9.07,21.8,,,grain,no cover crop,
+2018,10/5/18,KBS,main,Continuous Corn,G1,R3,,,main,,7873.8,8.77,19.2,,,grain,no,
+2018,10/4/18,KBS,stover microplot,Continuous Corn,G1,R3,,,west,,656.15,8.92,22.2,,,grain,no cover crop,
+2018,10/4/18,KBS,stover microplot control,Continuous Corn,G1,R4,,,east,,656.15,7.16,21.2,,,grain,no cover crop,
+2018,10/5/18,KBS,main,Continuous Corn,G1,R4,,,main,,7873.8,10.05,19.4,,,grain,no,
+2018,10/4/18,KBS,stover microplot,Continuous Corn,G1,R4,,,west,,656.15,,21,,,grain,no cover crop,
+2018,10/4/18,KBS,stover microplot,Continuous Corn,G1,R5,,,west,,656.15,10.17,21.7,,,grain,no cover crop,
+2018,10/4/18,KBS,stover microplot control,Continuous Corn,G1,R5,,,east,,656.15,8.06,25.1,,,grain,no cover crop,
+2018,10/5/18,KBS,main,Continuous Corn,G1,R5,,,main,,7873.8,9.75,20.4,,,grain,no,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
